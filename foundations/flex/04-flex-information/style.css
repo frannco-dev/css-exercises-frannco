@@ -39,7 +39,6 @@ img {
 }
 
 .element {
-  flex: auto;
   justify-items: center;
   text-align: center;
   max-width: 200px;
